@@ -149,6 +149,7 @@ a:hover {
     color: #fff; }
 
 footer {
+  background: #f4f4f4;
   padding: 50px 0px 0px 0px; }
   footer .social li {
     display: inline;
